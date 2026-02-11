@@ -1,0 +1,16 @@
+//describe the aditional method you created
+
+My additional method is called status. This method will return what type of shopping status you have. 
+If you spent less than $10 you get Silver Status and the method will return "Silver Status". If you spend $10 or
+above but less than 20 you have earned gold status and the method will return "Gold Status". If you spend above $20 
+you have earned platinum status and the method will return "Platinum Status". 
+
+
+one limitation
+
+One limitation with my program is that it doesn't account for coupons/sale items. This is important as it is common
+that items at a grocery store differ prices month to month. My program would improve if this limitation is accounted
+for as it would be more accurate to the real world. 
+
+
+
